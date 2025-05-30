@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+pinecone-client
+openai
+pymupdf
+docx2txt
+pytest
